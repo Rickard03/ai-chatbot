@@ -41,8 +41,8 @@ Then run
 python bot.py
 ```
 
-<p align="center">
+
 <img src="https://media.discordapp.net/attachments/622826738174394419/1172961428303519744/img56.png?ex=65623875&is=654fc375&hm=5393087368aa65fbcf75decd5a418c68fe5f6c00c00e55150b9776ee38e89ac8&=" alt="Kingfisher" title="Kingfisher" width="557"/>
-</p>
+
 
 Happy coding!
