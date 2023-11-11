@@ -13,7 +13,7 @@ Current version 1.0.0
 ## How do I set it up? :heart:
 
 1. Press on the green button that says "Clone or download" and download it as a .zip file. 
-2. Extract the files somewhere on your computer. We recommend creating a folder called "steambot" on your desktop. 
+2. Extract the files somewhere on your computer.
 3. Install Python. Required to run this bot. Download from website https://www.python.org/downloads/
 4. Open your code editor.
 
