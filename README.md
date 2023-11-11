@@ -1,9 +1,5 @@
 # ai-chatbot
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/onevcat/Kingfisher/master/images/logo.png" alt="Kingfisher" title="Kingfisher" width="557"/>
-</p>
-
 Ai chat bot that respond to chat messages
 
 
