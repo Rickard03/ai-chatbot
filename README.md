@@ -38,7 +38,7 @@ pip3 install
 
 Then run
 ```sh
-npm nodemon server.js
+python bot.py
 ```
 
 Happy coding!
