@@ -42,7 +42,7 @@ python bot.py
 ```
 
 
-<img src="https://media.discordapp.net/attachments/622826738174394419/1172961428303519744/img56.png?ex=65623875&is=654fc375&hm=5393087368aa65fbcf75decd5a418c68fe5f6c00c00e55150b9776ee38e89ac8&=" alt="Kingfisher" title="Kingfisher" width="557"/>
+<img src="https://cdn.discordapp.com/attachments/622826738174394419/1172962338371018852/eee.png?ex=6562394e&is=654fc44e&hm=8a406d8c58cd5c404d33256903789a59a197f51979895a9291aba950ce36599d&" alt="Kingfisher" title="Kingfisher" width="557"/>
 
 
 Happy coding!
