@@ -23,9 +23,6 @@ Current version 1.0.0
 
 </h1>
 
-
- [![Build and release](https://github.com/hldh214/buff2steam/actions/workflows/build-and-release.yml/badge.svg)](https://github.com/hldh214/buff2steam/actions/workflows/build-and-release.yml)
-
     
 ## How do I set it up? :heart:
 
