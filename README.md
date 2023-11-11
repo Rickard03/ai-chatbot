@@ -18,7 +18,7 @@ Current version 1.0.0
 4. Open code your editor.
 
 
-Open powershell and type
+Open Powershell and type:
 ```sh
 pip3 install
 ```
