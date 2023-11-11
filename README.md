@@ -41,7 +41,7 @@ Then run
 python bot.py
 ```
 
-
+Type hello or anything else
 <img src="https://cdn.discordapp.com/attachments/622826738174394419/1172962338371018852/eee.png?ex=6562394e&is=654fc44e&hm=8a406d8c58cd5c404d33256903789a59a197f51979895a9291aba950ce36599d&" alt="Kingfisher" title="Kingfisher" width="557"/>
 
 
