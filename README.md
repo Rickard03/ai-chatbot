@@ -17,7 +17,8 @@ Current version 1.0.0
 3. Install Python. Required to run this bot. Download from website [https://nodejs.org/en/](https://www.python.org/downloads/)
 4. Open code your editor.
 
-Type
+
+Open powershell and type
 ```sh
 pip3 install
 ```
